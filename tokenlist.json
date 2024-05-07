@@ -1,0 +1,19 @@
+{
+   "name": "TokenList",
+   "logoURI": "https://static.tronscan.org/production/upload/logo/new/TAXQKdGyWSZ5nrtgZLWZQmuyhPk1cHxPsL.jpeg?t=1714993703028",
+   "timestamp": 1715071576000,
+   "tokens": [{
+           "chainId": 1, #ChainId, which is currently 1
+           "address": "TAXQKdGyWSZ5nrtgZLWZQmuyhPk1cHxPsL", #Token address
+           "name": "GDT", #Token name
+           "symbol": "GDT", #Token symbol
+           "decimals": 18, #Token decimals
+           "logoURI": "https://static.tronscan.org/production/upload/logo/new/TAXQKdGyWSZ5nrtgZLWZQmuyhPk1cHxPsL.jpeg?t=1714993703028" #Token logo uri
+       }
+   ],
+   "version": { #Version info
+       "major": 1, #Major version
+       "minor": 0, #Minor version
+       "patch": 0  #Patch version
+   }
+}
